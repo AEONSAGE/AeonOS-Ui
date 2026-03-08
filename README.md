@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AEONSAGE/AeonOs/main/web/website/public/logos/AeonSage_letter_logo.svg" alt="AeonSage" width="320" />
+  <img src="assets/logo.svg" alt="AeonSage" width="320" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ All releases are code-signed, notarized, and ship with automatic updates.
 ## What You're Installing
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AEONSAGE/AeonOs/main/web/website/public/images/screenshot-meta.png" alt="AeonSage Platform" width="100%" />
+  <img src="assets/screenshot.png" alt="AeonSage Platform" width="100%" />
 </p>
 
 > AeonSage is an **agent operating system** — not a chat wrapper.
@@ -44,7 +44,7 @@ All releases are code-signed, notarized, and ship with automatic updates.
 <table>
 <tr>
 <td width="44%" align="center">
-<img src="https://raw.githubusercontent.com/AEONSAGE/AeonOs/main/web/website/public/images/landing/routing_3d.png" width="100%" alt="Cognitive Router" />
+<img src="assets/routing.png" width="100%" alt="Cognitive Router" />
 </td>
 <td width="56%" valign="top">
 <br>
@@ -74,7 +74,7 @@ One instruction. A team that delivers.
 
 </td>
 <td width="44%" align="center">
-<img src="https://raw.githubusercontent.com/AEONSAGE/AeonOs/main/web/website/public/features/multiagent.png" width="100%" alt="Worker Subteam" />
+<img src="assets/multiagent.png" width="100%" alt="Worker Subteam" />
 </td>
 </tr>
 </table>
@@ -84,7 +84,7 @@ One instruction. A team that delivers.
 <table>
 <tr>
 <td width="44%" align="center">
-<img src="https://raw.githubusercontent.com/AEONSAGE/AeonOs/main/web/website/public/images/landing/workflow_3d.png" width="100%" alt="Memory Graph" />
+<img src="assets/memory.png" width="100%" alt="Memory Graph" />
 </td>
 <td width="56%" valign="top">
 <br>
@@ -110,7 +110,7 @@ Not analysis — execution. Natural language instructions become real trades via
 
 </td>
 <td width="44%" align="center">
-<img src="https://raw.githubusercontent.com/AEONSAGE/AeonOs/main/web/website/public/features/defi.png" width="100%" alt="Finance Agent" />
+<img src="assets/finance.png" width="100%" alt="Finance Agent" />
 </td>
 </tr>
 </table>
@@ -120,7 +120,7 @@ Not analysis — execution. Natural language instructions become real trades via
 <table>
 <tr>
 <td width="44%" align="center">
-<img src="https://raw.githubusercontent.com/AEONSAGE/AeonOs/main/web/website/public/images/landing/privacy_3d.png" width="100%" alt="Privacy First" />
+<img src="assets/privacy.png" width="100%" alt="Privacy First" />
 </td>
 <td width="56%" valign="top">
 <br>
@@ -142,7 +142,7 @@ Your conversations. Your keys. Your data. Always.
 ## Getting Started
 
 1. Download the installer for your platform
-2. Launch AeonSage — connects to http://localhost:7777 by default
+2. Launch AeonSage — connects to `http://localhost:7777` by default
 3. Add an AI provider API key in **Settings → Providers**
 4. Start a conversation, or explore Skills, Channels, and the Finance Agent
 
