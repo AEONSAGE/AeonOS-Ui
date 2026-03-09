@@ -142,7 +142,7 @@ Your conversations. Your keys. Your data. Always.
 ## Getting Started
 
 1. Download the installer for your platform
-2. Launch AeonSage — connects to `http://localhost:7777` by default
+2. Launch AeonSage
 3. Add an AI provider API key in **Settings → Providers**
 4. Start a conversation, or explore Skills, Channels, and the Finance Agent
 
