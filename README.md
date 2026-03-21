@@ -22,7 +22,7 @@ Desktop · Web · Mobile · Telegram · Discord · Slack
 | Platform | Installer | Size | Notes |
 |----------|-----------|------|-------|
 | **Windows** x64 | [⬇ AeonSage_2.18.0_x64-setup.exe](https://releases.aeonsage.org/desktop/AeonSage_2.18.0_x64-setup.exe) | 36 MB | NSIS installer, code-signed |
-| **macOS** (Universal) | Coming soon | — | Apple Silicon + Intel, notarized |
+| **macOS** (Universal) | [⬇ AeonSage_2.18.0_universal.dmg](https://releases.aeonsage.org/desktop/AeonSage_2.18.0_universal.dmg) | 83 MB | Apple Silicon + Intel, notarized |
 | **Linux** x86_64 | Coming soon | — | AppImage, no install required |
 
 > **Auto-updates** — once installed, AeonSage checks for updates on every launch and applies them silently.
