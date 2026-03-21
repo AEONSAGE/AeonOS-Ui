@@ -10,21 +10,22 @@
 </p>
 
 <p align="center">
-  <strong>Your AI agent platform — private, multi-model, and always on.</strong><br/>
-  Desktop · Web · Mobile · Telegram · Discord · Slack
+  <strong>Your AI agent platform — private, multi-model, and always on.</strong>
+<br/>
+Desktop · Web · Mobile · Telegram · Discord · Slack
 </p>
 
 ---
 
 ## Download
 
-| Platform | Installer | Notes |
-|----------|-----------|-------|
-| **macOS** (Universal) | [AeonSage\_macos\_universal.dmg](https://github.com/AEONSAGE/AeonOS-Ui/releases/latest) | Apple Silicon + Intel, notarized |
-| **Windows** x64 | [AeonSage\_windows\_x64\_en-US.exe](https://github.com/AEONSAGE/AeonOS-Ui/releases/latest) | NSIS installer, code-signed |
-| **Linux** x86\_64 | [AeonSage\_linux\_x86\_64.AppImage](https://github.com/AEONSAGE/AeonOS-Ui/releases/latest) | No install required |
+| Platform | Installer | Size | Notes |
+|----------|-----------|------|-------|
+| **Windows** x64 | [⬇ AeonSage_2.18.0_x64-setup.exe](https://releases.aeonsage.org/desktop/AeonSage_2.18.0_x64-setup.exe) | 36 MB | NSIS installer, code-signed |
+| **macOS** (Universal) | Coming soon | — | Apple Silicon + Intel, notarized |
+| **Linux** x86_64 | Coming soon | — | AppImage, no install required |
 
-All releases are code-signed, notarized, and ship with automatic updates.
+> **Auto-updates** — once installed, AeonSage checks for updates on every launch and applies them silently.
 
 ---
 
@@ -141,7 +142,7 @@ Your conversations. Your keys. Your data. Always.
 
 ## Getting Started
 
-1. Download the installer for your platform
+1. Download the installer for your platform from the **[Download](#download)** section above
 2. Launch AeonSage
 3. Add an AI provider API key in **Settings → Providers**
 4. Start a conversation, or explore Skills, Channels, and the Finance Agent
